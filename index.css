@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+body,
+html {
+  background-color: black;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+  border-radius: 0px !important;
+  color: black !important;
+}
+
+.sosyal {
+  font-size: 35px;
+  margin-top: 45px;
+}
+.sosyal i {
+  background-color: white;
+  margin: 10px;
+}
